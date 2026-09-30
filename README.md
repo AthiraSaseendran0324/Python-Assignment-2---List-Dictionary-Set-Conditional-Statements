@@ -86,4 +86,4 @@ The program categorizes a score from 0 to 10 as
 
 ## By
 
-Athira Saseendran
+## Athira Saseendran
