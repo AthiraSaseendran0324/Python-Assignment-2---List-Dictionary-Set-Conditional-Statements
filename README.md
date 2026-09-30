@@ -73,11 +73,6 @@ The conditional statement section includes a performance category program using:
 - Comparison operators
 - User input
 
-The program categorizes a score from 0 to 10 as
-
-- Above Average
-- Average
-- Below Average
 
 ## Tools Used
 
