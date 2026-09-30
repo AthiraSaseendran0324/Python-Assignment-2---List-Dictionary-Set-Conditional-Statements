@@ -84,6 +84,6 @@ The program categorizes a score from 0 to 10 as
 - Python
 - Google Colab
 
-## By
+#### By
 
 ## Athira Saseendran
